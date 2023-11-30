@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # docker-Java-kubernetes-project
 
 
@@ -137,3 +138,6 @@ Endpoint for stock --> /stocks
 
 
 
+=======
+# kubernetes_java_deployment
+>>>>>>> 97e0b2609dc7c5b3221680d87b0735ff8a65b34c
